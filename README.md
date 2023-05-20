@@ -2,6 +2,8 @@
 
 ## Quickstart
 
+Create a system variable with the name `"stromgedacht_wert"` in your homematic system.
+
 ```bash
 go build homematic-stromgedacht.go
 chmod +x homematic-stromgedacht
